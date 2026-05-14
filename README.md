@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![new-lush](https://github.com/youssefbarj/new-lush/raw/main/screenshot.png)
+![new-lush](https://raw.githubusercontent.com/youssefbarj/new-lush/main/screenshot.png)
 
 ## What this slide does
 
